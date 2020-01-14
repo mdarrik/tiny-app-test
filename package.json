@@ -1,0 +1,11 @@
+{
+  "name": "tiny-app-test",
+  "version": "1.0.0",
+  "description": "A test of web component frameworks + preact to test building tiny apps. ",
+  "main": "index.js",
+  "repository": "https://www.github.com/mdarrik/tiny-app-test",
+  "author": "Darrk Moberg <30670444+mdarrik@users.noreply.github.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": ["lit", "stencil", "preact"]
+}
